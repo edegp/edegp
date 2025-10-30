@@ -1,13 +1,20 @@
-<p align="left"> 
-  <img  alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edegp&count_private=true&layout=compact&theme=onedark" />
-  <img alt="github stats" height="150px"  src="https://github-readme-stats.vercel.app/api?username=edegp&show_icons=true&theme=onedark" />
- </p>
- 
-[![trophy](https://github-profile-trophy.vercel.app/?username=edegp&theme=onedark&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- 1. GitHub usernameを変更 -->
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=edegp" />
+</div>
 
-[![](https://raw.githubusercontent.com/edegp/edegp/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/edegp/edegp/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
-[![](https://raw.githubusercontent.com/edegp/edegp/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/edegp/edegp/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
-[![](https://raw.githubusercontent.com/edegp/edegp/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+<!-- 2. プロフィールや連絡先を変更 -->
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
+
+- 🧑‍💻 I'm a AI engineer.
+- 📫 How to reach me: [LinkedIn - @edegp](https://www.linkedin.com/in/yuhi-aoki-a1962921b/)
+
+<br>
+<!-- 4. GitHub usernameを変更, 2箇所 -->
+<!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
+## 🏃‍♀️ Activities
+<div align="left">
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=edegp&theme=vue-dark&layout=compact" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edegp&theme=vue-dark&layout=compact" />
+</div>
